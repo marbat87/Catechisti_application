@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Catechisti_application</string>
+    <string name="title_communities">Comunità</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_community_list">Communities</string>
+    <string name="title_community_detail">Community Detail</string>
+</resources>
